@@ -1,0 +1,3 @@
+USE тут название вашей базы без кавычек
+GO
+EXEC sp_changedbowner 'sa'
